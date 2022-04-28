@@ -1,4 +1,4 @@
-./local_wheels/
+./local_wheels/1.3.50
 pydantic~=1.8.2
 dataclasses~=0.6
 pandas~=1.2.5
