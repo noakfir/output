@@ -1,4 +1,4 @@
-./local_wheels/1.3.50
+./local_wheels/insightsprocessor-1.3.50-py3-none-any.whl
 pydantic~=1.8.2
 dataclasses~=0.6
 pandas~=1.2.5
